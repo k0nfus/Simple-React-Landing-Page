@@ -1,21 +1,20 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src="Jan.png" className="App-logo" alt="Jan" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Hi! Mein Name ist Jan und ich programmiere mit Django und React.
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://github.com/k0nfus/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          GitHub
         </a>
       </header>
     </div>
